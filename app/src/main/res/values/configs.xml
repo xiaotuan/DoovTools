@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="imei_query_code">366806</string>
+    <string name="all_imei_query_code">3668066</string>
+    <string name="software_version_query_code">3668666</string>
+    <string name="hardware_version_query_code">3668222</string>
+    <string name="camera_preview_test_code">36688003</string>
+    <string name="camera_take_picture_test_code">36688004</string>
+    <string name="camera_driver_test_code">6688</string>
+
+    <bool name="save_picture">false</bool>
+    <integer name="default_take_picture_count">1000</integer>
+    <!--    FLASH_MODE_OFF: "off", FLASH_MODE_AUTO: "auto", FLASH_MODE_ON: "on", FLASH_MODE_RED_EYE: "red-eye", FLASH_MODE_TORCH: "torch"       -->
+    <string name="default_flash_light_model">"auto"</string>
+    <!--    Back Camera: "back", Front Camera: "front"      -->
+    <string name="default_camera">"back"</string>
+    <bool name="exit_delet_picture_file">false</bool>
+    <integer name="default_preview_frame_rate">5</integer>
+    <integer name="default_picture_width_size">640</integer>
+    <integer name="default_picture_height_size">480</integer>
+    <integer name="delayed_exit_test_by_key_back">5000</integer>
+
+</resources>

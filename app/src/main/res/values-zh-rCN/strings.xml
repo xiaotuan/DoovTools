@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="title_software_verion">"软件版本号"</string>
+    <string name="title_hardware_verion">"硬件版本号"</string>
+    <string name="btn_ok_msg">"确定"</string>
+    <string name="btn_cancel_msg">"取消"</string>
+    <string name="start">"开始"</string>
+    <string name="stop">"停止"</string>
+    <string name="preview_test">"相机预览测试"</string>
+    <string name="take_picture_test">"相机拍照测试"</string>
+    <string name="camera_driver_test">"相机马达测试"</string>
+    <string name="settings_title">"设置"</string>
+    <string name="test_count">"测试次数："</string>
+    <string name="grant_permission_fail">"获取权限失败"</string>
+    <string name="focus_failed">"对焦失败"</string>
+    <string name="exit_msg">"再次按下返回键退出"</string>
+
+</resources>

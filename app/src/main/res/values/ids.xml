@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="switch_camera" type="id" />
+    <item name="texture" type="id" />
+    <item name="control" type="id" />
+    <item name="settings_container" type="id" />
+    <item name="settings" type="id" />
+    <item name="count" type="id" />
+    <item name="button_container" type="id" />
+    <item name="start" type="id" />
+    <item name="stop" type="id" />
+    <item name="switch_flash_container" type="id" />
+    <item name="flash" type="id" />
+    <item name="preview_switch_camera" type="id" />
+    <item name="count_editor" type="id" />
+
+</resources>

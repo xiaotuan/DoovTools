@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+    <style name="ModelDialogStyle" parent="android:Theme.Material.Light.Dialog.Alert">
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+
+</resources>
